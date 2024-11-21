@@ -65,7 +65,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Kyosk Digital Website</h5>
-                                        <p>- Stack: Angular, Ionic and Cordova</p>
+                                        <p>- Stack: Angular, Nx, Tailwind CSS, GraphQL, React Native, and TypeScript</p>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Skillcat Application</h5>
-                                        <p>- Stack: Angular, Ionic and Cordova</p>
+                                        <p>- Stack: Angular, SCSS, Ionic and Cordova</p>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +100,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Fastlane Spirits</h5>
-                                        <p>- Stack: Angular, SCSS, Bootstrap, and pdfMake</p>
+                                        <p>- Stack: Angular, TypeScript, SCSS, Bootstrap, and pdfMake</p>
                                     </div>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Fastlane Spirits Admin</h5>
-                                        <p>- Stack: Angular, SCSS, Bootstrap, and pdfMake</p>
+                                        <p>- Stack: Angular,TypeScript, SCSS, Bootstrap, and pdfMake</p>
                                     </div>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Ecommerce Web Applicatioon  </h5>
-                                        <p>- Stack: Angular, SCSS, Bootstrap, and pdfMake</p>
+                                        <p>- Stack: React, Tailwind CSS, Typescript, Redux, Nodejs & Express</p>
                                     </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@ export default function Projects({id}: {id: string}) {
                                     </div>
                                     <div className="project-info">
                                         <h5>Ecommerce Admin Dashboard</h5>
-                                        <p>- Stack: Angular, SCSS, Bootstrap, and pdfMake</p>
+                                        <p>- Stack: React, Tailwind CSS, Typescript, Redux, Nodejs & Express</p>
                                     </div>
                                 </div>
                             </div>
